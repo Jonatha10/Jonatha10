@@ -5,7 +5,6 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/j%C3%B4natha-santos-5059771b0/"><i>Jônatha Santos</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento de Sistemas no <a href="http://www.senaicimatec.com.br//"><i>SENAI</i></a> e estou começando a expor meus conhecimentos aqui no GitHub</span>
   <p align="center">Tenho interesse em Desenvolvimento back-end com ênfase na Linguagem de Programção Java e estou iniciando os estudos em Spring Boot</p>
-  <p align="center"> Atualmente estou trabalhando no projeto   <a href="https://github.com/Jonatha10/cadastroClientes"><i>Cadastro de clientes<i></a></p>
   <p align="center">Amo fazer bolo no meu tempo livre</p>
 </div>
 
